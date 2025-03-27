@@ -1,0 +1,108 @@
+state_id,state_code,country,state_name,capital_city,status,iso_code
+242e1aa5-69a2-46f6-b3d1-39b6a7af9b39,AN,India,Andaman and Nicobar Islands,Port Blair,Union Territory,IN-AN
+196a575b-c420-445c-9b3a-acb48965fdde,AP,India,Andhra Pradesh,Amaravati,State,IN-AP
+ddcbc6f6-0a84-4155-b8f1-49fbf9f75005,AR,India,Arunachal Pradesh,Itanagar,State,IN-AR
+c98d6e57-6860-4e34-80c0-bb1af9619a56,AS,India,Assam,Dispur,State,IN-AS
+b6d78066-c073-411b-93d6-8bea001ca6cd,BR,India,Bihar,Patna,State,IN-BR
+db39d750-e385-4f86-9947-dac5a87f1ce6,CH,India,Chandigarh,Chandigarh,Union Territory,IN-CH
+313dd403-3837-4773-9d3b-91b30cc84b2b,CG,India,Chhattisgarh,Raipur,State,IN-CG
+64c5572d-5a53-4ad7-938b-278802c53bb0,DD,India,Daman and Diu,Daman,Union Territory,IN-DD
+033b3e02-09d9-4404-9dac-bbee3233cfac,DH,India,Dadra and Nagar Haveli and Daman and Diu,Daman,Union Territory,IN-DH
+80f0c886-558d-4c5e-9d53-b3bc337842c1,DL,India,Delhi,New Delhi,Union Territory,IN-DL
+e69f1148-2dcc-42f4-a8fa-c52aaf86c262,GA,India,Goa,Panaji,State,IN-GA
+819e28db-a1fa-4833-bc70-659bbc4cd177,GJ,India,Gujarat,Gandhinagar,State,IN-GJ
+d4d202d8-4e68-4d51-8370-32478a7b2983,HR,India,Haryana,Chandigarh,State,IN-HR
+08c0f7e7-0c48-4fda-9b0f-5a0b321493e8,HP,India,Himachal Pradesh,Shimla,State,IN-HP
+5081dafb-1fd3-44ce-95de-dd45c2691178,JK,India,Jammu and Kashmir,Srinagar/Jammu,Union Territory,IN-JK
+fc6e3645-3660-446c-b6e7-89fb8313d89d,JH,India,Jharkhand,Ranchi,State,IN-JH
+d4c2eec2-8be5-4c28-b278-057033d06736,KA,India,Karnataka,Bengaluru,State,IN-KA
+73523a4b-d2ed-476f-b802-c9b1638de58d,KL,India,Kerala,Thiruvananthapuram,State,IN-KL
+d13f9e40-1ee0-48ef-bde5-1dd180988ed5,LA,India,Ladakh,Leh,Union Territory,IN-LA
+271e3758-0d95-4e03-883f-89506b924998,LD,India,Lakshadweep,Kavaratti,Union Territory,IN-LD
+8e686a6e-bd43-4f6a-ba72-db186760f9d1,MP,India,Madhya Pradesh,Bhopal,State,IN-MP
+66110ee9-8739-49c4-aa04-1abcfb17e426,MH,India,Maharashtra,Mumbai,State,IN-MH
+f416a7b3-0ece-490b-9a91-fce0f3cc61b5,MN,India,Manipur,Imphal,State,IN-MN
+1efc654c-5de2-4eba-8541-894a54948924,ML,India,Meghalaya,Shillong,State,IN-ML
+9181f912-f4f4-4ce1-8513-38c547f8cf5a,MZ,India,Mizoram,Aizawl,State,IN-MZ
+6b1a0461-c191-4fed-8dfc-2b72a8508e92,NL,India,Nagaland,Kohima,State,IN-NL
+99c286bc-3026-4492-bd48-4fe32f7849f9,OD,India,Odisha,Bhubaneswar,State,IN-OD
+33b548a0-b2fd-4b28-9051-32f388cc7c44,OR,India,Orissa,Bhubaneswar,State,IN-OR
+6bc4e69b-383b-4465-a428-3869f8f0a14f,PY,India,Puducherry,Puducherry,Union Territory,IN-PY
+6232566a-7ce6-497e-8154-9008cf9c8d39,PB,India,Punjab,Chandigarh,State,IN-PB
+58d51ffb-d559-4dc0-83ae-2aae2752e872,RJ,India,Rajasthan,Jaipur,State,IN-RJ
+b0add8dd-4ea7-46de-b84e-93a5673ad1e1,SK,India,Sikkim,Gangtok,State,IN-SK
+7c220b0d-26be-446f-a870-8f460ac067a1,TN,India,Tamil Nadu,Chennai,State,IN-TN
+be38c459-7cab-49d9-a078-7a55bbc0e013,TG,India,Telangana,Hyderabad,State,IN-TS
+80fa495b-7da3-499e-8713-ecccee96dcdf,TR,India,Tripura,Agartala,State,IN-TR
+6aa5b11f-c916-4260-ac74-c9ddc15ab7a5,UP,India,Uttar Pradesh,Lucknow,State,IN-UP
+12edcbea-7a5f-4d7b-a7e6-97f1be795ca8,UK,India,Uttarakhand,Dehradun,State,IN-UK
+c8ee6839-575b-4c72-898c-18cc2403f906,WB,India,West Bengal,Kolkata,State,IN-WB
+5462d11d-9d6a-478f-be81-5ddc8ae42809,AL,United States,Alabama,Montgomery,State,US-AL
+2afef103-a77b-49d0-82ee-ce5082b89158,AK,United States,Alaska,Juneau,State,US-AK
+409dcdc7-84db-4498-8f06-56d296558e63,AZ,United States,Arizona,Phoenix,State,US-AZ
+2123ad67-e397-46ae-8d39-3d7802b2e95a,AR,United States,Arkansas,Little Rock,State,US-AR
+cc3991a8-e566-412c-ae5b-da6861c47e1e,CA,United States,California,Sacramento,State,US-CA
+6b4c3971-2b94-4ffc-8ca1-59762e073da9,CO,United States,Colorado,Denver,State,US-CO
+9b8bf228-7d85-462d-a359-5cff1cc2c0f4,CT,United States,Connecticut,Hartford,State,US-CT
+1866a2df-f73a-4274-a66e-93aefcc03edb,DE,United States,Delaware,Dover,State,US-DE
+b5bda836-b996-459c-953a-d6e42e28f3f9,FL,United States,Florida,Tallahassee,State,US-FL
+e1b46d85-e37d-4336-844c-17637af7d28d,GA,United States,Georgia,Atlanta,State,US-GA
+6adb5914-c5a1-44ec-bab8-fdeae4b339e2,HI,United States,Hawaii,Honolulu,State,US-HI
+6a199d2c-7488-41c7-9d42-d8d861a03206,ID,United States,Idaho,Boise,State,US-ID
+c254cebd-4a87-4a84-ab9b-1167e50dc064,IL,United States,Illinois,Springfield,State,US-IL
+196938ef-675e-43c5-935d-81397978692a,IN,United States,Indiana,Indianapolis,State,US-IN
+b52662f6-481d-43fe-a137-f4aacf7e66c8,IA,United States,Iowa,Des Moines,State,US-IA
+bf3fe75c-6dbf-49fb-b8bf-bdd7646d26a6,KS,United States,Kansas,Topeka,State,US-KS
+a0e1e85c-f62c-480a-89fb-bf4f794f7397,KY,United States,Kentucky,Frankfort,State,US-KY
+21767473-2236-4c51-b6c1-e80d76f9f5e3,LA,United States,Louisiana,Baton Rouge,State,US-LA
+8f7541e8-6540-40a1-96c6-849b203527c3,ME,United States,Maine,Augusta,State,US-ME
+afa54c56-655e-4fe7-b722-658e719fb89e,MD,United States,Maryland,Annapolis,State,US-MD
+e628bcc2-e77a-414f-aa3e-c866a9016858,MA,United States,Massachusetts,Boston,State,US-MA
+edf76ec6-a8fc-498d-ae6a-a2d8d988bd11,MI,United States,Michigan,Lansing,State,US-MI
+c3faef91-3bf5-4143-a60d-9ab11c0af0c3,MN,United States,Minnesota,St. Paul,State,US-MN
+7b7b109f-4e15-4cb0-be67-e4eda44ff459,MS,United States,Mississippi,Jackson,State,US-MS
+8fa7e058-c99c-4ff9-8a80-0300420fcd31,MO,United States,Missouri,Jefferson City,State,US-MO
+140c39ed-2d41-4114-ab02-28418379f768,MT,United States,Montana,Helena,State,US-MT
+4fbf435a-9fb1-4436-8719-9b78e0576428,NE,United States,Nebraska,Lincoln,State,US-NE
+bb4165e7-0450-406e-9fbe-1ab65efc84de,NV,United States,Nevada,Carson City,State,US-NV
+9f488d6b-38a9-487a-9fef-54997263ea51,NH,United States,New Hampshire,Concord,State,US-NH
+55ee0548-3a2d-4c76-b9d1-1ffe3e60bf2f,NJ,United States,New Jersey,Trenton,State,US-NJ
+5be320b0-fe7d-49bb-838c-28227c51c637,NM,United States,New Mexico,Santa Fe,State,US-NM
+b377ba1a-94d0-4aa2-95d3-dda7f80e8067,NY,United States,New York,Albany,State,US-NY
+963533eb-093b-49ea-80f9-5b0b84b03a55,NC,United States,North Carolina,Raleigh,State,US-NC
+29f76b5b-1f72-4c4e-b01a-2629514a2a62,ND,United States,North Dakota,Bismarck,State,US-ND
+4e0d94f5-a87e-4a4c-aa61-74de446727ec,OH,United States,Ohio,Columbus,State,US-OH
+dffe4c53-8efb-43d5-ba91-69b7f55ff190,OK,United States,Oklahoma,Oklahoma City,State,US-OK
+5eb03ff9-3ea2-44e1-9f9b-d03a804900c6,OR,United States,Oregon,Salem,State,US-OR
+5e5b5976-7458-4a57-9363-978dc3180908,PA,United States,Pennsylvania,Harrisburg,State,US-PA
+05befcae-60bd-4b33-bfb4-ee686423a96a,RI,United States,Rhode Island,Providence,State,US-RI
+a761d0ab-0e46-481a-945a-b23e21372974,SC,United States,South Carolina,Columbia,State,US-SC
+92a1ecfe-2ee1-47d7-ae34-eb012cabf3fb,SD,United States,South Dakota,Pierre,State,US-SD
+3f274cd1-4124-4ec8-a5a5-da4c3e047a78,TN,United States,Tennessee,Nashville,State,US-TN
+5c2af876-f62b-43ca-812e-a1f7680a16c9,TX,United States,Texas,Austin,State,US-TX
+ddbf5132-0d29-4944-9551-3bb0dd9e2bbb,UT,United States,Utah,Salt Lake City,State,US-UT
+25abba9b-a0af-4d2d-8b38-5558267b8d25,VT,United States,Vermont,Montpelier,State,US-VT
+d4d1181a-63b1-4878-84a0-d8df903e930f,VA,United States,Virginia,Richmond,State,US-VA
+c860a530-9c02-4ac0-b0dd-2e12433a4688,WA,United States,Washington,Olympia,State,US-WA
+da39c9b2-5f6f-4eef-a82d-b411bbc19eba,WV,United States,West Virginia,Charleston,State,US-WV
+a51ffcc4-652f-4f9f-b635-c95293af7e44,WI,United States,Wisconsin,Madison,State,US-WI
+4e34d90d-726d-4451-992e-fa662a9936bd,WY,United States,Wyoming,Cheyenne,State,US-WY
+0e943989-6d5b-45da-921f-c453e49ddd82,DC,United States,District of Columbia,Washington,Federal District,US-DC
+4641f278-7c27-4099-aa40-1d875701132f,AS,United States,American Samoa,Pago Pago,Territory,US-AS
+d549c4ee-b249-4d25-8d73-f6682187e66d,GU,United States,Guam,Hagåtña,Territory,US-GU
+c3123b19-b78c-4408-b6e1-189fee93b390,MP,United States,Northern Mariana Islands,Saipan,Territory,US-MP
+36d091b8-d4b0-4547-91f8-5fd622a25735,PR,United States,Puerto Rico,San Juan,Territory,US-PR
+c1a0f102-4d80-4717-980e-a5dbeb08a529,VI,United States,U.S. Virgin Islands,Charlotte Amalie,Territory,US-VI
+5a544992-3749-4a75-944c-6c8aa91d9cc0,AB,Canada,Alberta,Edmonton,Province,CA-AB
+805ed4d9-7f95-41e8-a903-1e6ce5c4366f,BC,Canada,British Columbia,Victoria,Province,CA-BC
+7adce3b4-aed7-45bd-867b-67487af02a5f,MB,Canada,Manitoba,Winnipeg,Province,CA-MB
+702fa6f8-c65a-4a5c-b29b-8b74bd692943,NB,Canada,New Brunswick,Fredericton,Province,CA-NB
+14278aa9-811f-41fc-b62f-65cc28637463,NL,Canada,Newfoundland and Labrador,St. John's,Province,CA-NL
+e6eec7ae-f78c-4fe6-806e-e6887c5a85cb,NS,Canada,Nova Scotia,Halifax,Province,CA-NS
+35ed3399-9f77-4ee5-a8d5-de68f3c5d6b0,ON,Canada,Ontario,Toronto,Province,CA-ON
+7bb65f4e-0a81-40c4-bffc-825c828ae4dd,PE,Canada,Prince Edward Island,,Province,CA-PE
+3fa90cd2-a488-47c9-ba1b-3ddef17b2cf6,QC,Canada,Quebec,Quebec City,Province,CA-QC
+3ef50a6a-77bb-40a8-bb0c-9931a9785662,SK,Canada,Saskatchewan,Regina,Province,CA-SK
+7406adcf-c9df-448f-b159-b9801068ef21,NT,Canada,Northwest Territories,Yellowknife,Territory,CA-NT
+d4621454-bf14-49a9-b1c4-f02949a48c21,NU,Canada,Nunavut,Iqaluit,Territory,CA-NU
+9ff09fbe-9873-4c78-bcbc-b20d3bbfb12a,YT,Canada,Yukon,Whitehorse,Territory,CA-YT

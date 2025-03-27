@@ -1,0 +1,5 @@
+status_name,status_id,status_description,create_date,update_date
+Delivered,1,Order has been delivered,2025-03-27 10:11:33.449907,2025-03-27 10:11:33.449907
+Order,2,Order has been placed,2025-03-27 10:11:33.449907,2025-03-27 10:11:33.449907
+Processing,3,Order is being processed,2025-03-27 10:11:33.449907,2025-03-27 10:11:33.449907
+Shipped,4,Order has been shipped,2025-03-27 10:11:33.449907,2025-03-27 10:11:33.449907
