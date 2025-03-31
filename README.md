@@ -32,4 +32,12 @@ payment-etl-pipeline/
     └── architecture.md        # Data Schema and E/R diagram
 ```
 
+### Prerequisites
+Python 3.8+ <br>
+AWS CLI configured with appropriate permissions <br>
+Jupyter environment (optional, for notebooks) <br>
+
+### Documentation
+Architecture overview: See docs/architecture.md <br>
+Data exploration examples: See notebooks in the notebooks/ directory <br>
 
