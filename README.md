@@ -27,7 +27,7 @@ payment-etl-pipeline/
 ├── aws/                       # AWS components
 │   ├── glue/                  # AWS Glue ETL resources
 │   ├── redshift/              # Redshift setup and queries
-│   ├── quicksight/            # QuickSight dashboard setup
+│   ├── quicksight/            # QuickSight dashboard
 │
 ├── notebooks/                 # Jupyter notebooks
 │   ├── data_exploration.ipynb
