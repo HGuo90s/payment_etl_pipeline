@@ -1,9 +1,5 @@
-
-
-
-
 # E-commerce ETL and Data Quality Project
-A comprehensive ETL (Extract, Transform, Load) pipeline for processing payment data, leveraging AWS services including Glue, Redshift, and QuickSight. <br>
+A comprehensive ETL (Extract, Transform, Load) pipeline for processing payment data, leveraging AWS S3, AWS Glue, AWS Redshift, and Amazon Quicksight. <br>
 
 ### Overview
 This project implements an end-to-end data pipeline for payment processing and analytics. It includes components for: <br>
